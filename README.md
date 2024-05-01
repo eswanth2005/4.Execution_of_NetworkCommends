@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands:
-#### NAME: ESWANTH KUMAR K
-#### REGISTER NO: 212223040046
+### NAME: ESWANTH KUMAR K
+### REGISTER NO: 212223040046
 
 ## AIM :Use of Network commands in Real Time environment:
 ## Software : Command Prompt And Network Protocol Analyzer:
